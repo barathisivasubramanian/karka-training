@@ -1,0 +1,7 @@
+first=(input("First name:"))
+last=(input("Last name:"))
+grade=int(input("Grade(9-12):"))
+Id=int(input("student ID:"))
+login=(input("login:"))
+gpa=float(input("GPA (0.0-4.0):"))
+print(f"Your information:\n\t,login:{last}\n\t,ID:{Id}\n\t,name:{first}\n\t,GPA:{gpa}\n\t,Grade:{grade}")

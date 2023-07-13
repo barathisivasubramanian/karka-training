@@ -1,0 +1,6 @@
+name=input("enter your name")
+age=int(input("enter your age"))
+dob=input("enter your dob")
+college=input("enter your college name")
+location=input("enter your location")
+print("hello my name is ",name,"i am ",age,"years old and was born on ",dob,"currently i am located in ",location,"and i am completed my degree at ",college)
